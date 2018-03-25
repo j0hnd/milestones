@@ -1,0 +1,27 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/j0hnd/vicroads.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[atomGithub]
+	historySha = 94dc20f1f23b88bca703242beeb1ae626232aee1
+[branch "enhancement-phase-1"]
+	remote = origin
+	merge = refs/heads/enhancement-phase-1
+[branch "enhancement-phase-2"]
+	remote = origin
+	merge = refs/heads/enhancement-phase-2
+[branch "enhancement-phase-3"]
+	remote = origin
+	merge = refs/heads/enhancement-phase-3
+[branch "enhancement-phase-4"]
+	remote = origin
+	merge = refs/heads/enhancement-phase-4

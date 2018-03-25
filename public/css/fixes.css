@@ -1,0 +1,19 @@
+/* Layout */
+.wrapper {
+    /*min-height: 100%;
+    position: relative;
+    overflow: hidden;*/
+    width: 100%;
+    min-height: 100%;
+    height: auto !important;
+    position: absolute;
+}
+
+.download-template-wrapper {
+    margin-top: -10px !important;
+}
+
+.changes-wrapper {
+    max-height: 500px;
+    overflow-y: auto;
+}

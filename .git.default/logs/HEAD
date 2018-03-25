@@ -1,0 +1,167 @@
+0000000000000000000000000000000000000000 bad344a2311991ad756f76457f2cb8c1501c77b4 John Diegor <john.diegor@gmail.com> 1510769168 +0800	commit (initial): initial commit
+bad344a2311991ad756f76457f2cb8c1501c77b4 b537704a9c5a98fab10b3689a899665840c241f2 John Diegor <john.diegor@gmail.com> 1510769224 +0800	commit: initial commit
+b537704a9c5a98fab10b3689a899665840c241f2 e967a6fec50943852aee378ce2744a8a41801e1c John Diegor <john.diegor@gmail.com> 1510846052 +0800	commit: added UI for adding team members
+e967a6fec50943852aee378ce2744a8a41801e1c 76feaae19ab8d6fc5ce6d3f10607a49b216c80e8 John Diegor <john.diegor@gmail.com> 1510848666 +0800	commit: added saving of additional team members
+76feaae19ab8d6fc5ce6d3f10607a49b216c80e8 97ba3e0a29fe37727fce8440ffd1a8296408fb51 John Diegor <john.diegor@gmail.com> 1510848704 +0800	commit: moved projects javascript to a separate JS file
+97ba3e0a29fe37727fce8440ffd1a8296408fb51 61d6c50e1ced2dcf87b428000c958a81fecfb80c John Diegor <john.diegor@gmail.com> 1510854581 +0800	commit: sanitize input fields
+61d6c50e1ced2dcf87b428000c958a81fecfb80c 8f245137acfbc2a040e9c0243f7274f4d71cfffb John Diegor <john.diegor@gmail.com> 1510854606 +0800	commit: added project search
+8f245137acfbc2a040e9c0243f7274f4d71cfffb 4f941ee4b95d24461b9020ae8f384fc32e965509 John Diegor <john.diegor@gmail.com> 1510857125 +0800	commit: added page to list team members
+4f941ee4b95d24461b9020ae8f384fc32e965509 ece5752a0165458208506f6bbdb9ad224c028ca7 John Diegor <john.diegor@gmail.com> 1511078870 +0800	commit: added updating of project details
+ece5752a0165458208506f6bbdb9ad224c028ca7 2ed5d5c959acb19b0d41986bfca7efcf4b7db4f5 John Diegor <john.diegor@gmail.com> 1511080607 +0800	commit: fixed bug in updating project members
+2ed5d5c959acb19b0d41986bfca7efcf4b7db4f5 d21ff575d912a4314ab47b35e14947e5ba2f1c75 John Diegor <john.diegor@gmail.com> 1511081200 +0800	commit: fixed update javascript
+d21ff575d912a4314ab47b35e14947e5ba2f1c75 af6e1412c34fefc139bbbb08b439d829d604353f John Diegor <john.diegor@gmail.com> 1511097657 +0800	commit: added saving of comments
+af6e1412c34fefc139bbbb08b439d829d604353f 89c0279f628b37658491bf415c6780c33c619397 John Diegor <john.diegor@gmail.com> 1511105439 +0800	commit: modified comments section
+89c0279f628b37658491bf415c6780c33c619397 fe871da2f19aeda7a3eebb80bba101f6a66b7b19 John Diegor <john.diegor@gmail.com> 1511115080 +0800	commit: modified adding of members
+fe871da2f19aeda7a3eebb80bba101f6a66b7b19 e59ce2004c6ca726391ba51ed8c920dd8f68be37 John Diegor <john.diegor@gmail.com> 1511116081 +0800	commit: user login form without vue
+e59ce2004c6ca726391ba51ed8c920dd8f68be37 2b49393dfd1d8f566a5af22d21815252f86138a0 John Diegor <john.diegor@gmail.com> 1511193413 +0800	commit: added member delete
+2b49393dfd1d8f566a5af22d21815252f86138a0 aeb721b136983ae7343c667774c7148ff01063f1 John Diegor <john.diegor@gmail.com> 1511198224 +0800	commit: added edit of members info
+aeb721b136983ae7343c667774c7148ff01063f1 1e4e4285d2d649bcf3c4e336e7e02aa5a066eaac John Diegor <john.diegor@gmail.com> 1511198509 +0800	commit: use resource when updating users
+1e4e4285d2d649bcf3c4e336e7e02aa5a066eaac 3eef1649e8cc60a5f8b57c94cc8876fe53250d0b John Diegor <john.diegor@gmail.com> 1511199279 +0800	commit: fixed bug in updating members
+3eef1649e8cc60a5f8b57c94cc8876fe53250d0b b8a433201b2d409fe6d80b31b02dcdb4c9efd692 John Diegor <john.diegor@gmail.com> 1511199970 +0800	commit: modified my team page layout
+b8a433201b2d409fe6d80b31b02dcdb4c9efd692 dc0390d93819abfe56c0e837e021827ee374a4d3 John Diegor <john.diegor@gmail.com> 1511285732 +0800	commit: added default user seeder
+dc0390d93819abfe56c0e837e021827ee374a4d3 a50f6602ab6f0196d07055ed2d32cf25f77f4403 John Diegor <john.diegor@gmail.com> 1511289921 +0800	commit: additional layout adjustments and modified logout
+a50f6602ab6f0196d07055ed2d32cf25f77f4403 532cca8d394600a099ba1360bc0c3b3743624ec8 John Diegor <john.diegor@gmail.com> 1511442928 +0800	commit: modified layout
+532cca8d394600a099ba1360bc0c3b3743624ec8 116eb566d834863c060f12c0550ba3cad7f40401 John Diegor <john.diegor@gmail.com> 1511443300 +0800	commit: added a field to mark milestones if completed
+116eb566d834863c060f12c0550ba3cad7f40401 42ea8b51f8fe951c7e5e4c0b9ca9ea9205cb2cef John Diegor <john.diegor@gmail.com> 1511446909 +0800	commit: saving if milestones hit target
+42ea8b51f8fe951c7e5e4c0b9ca9ea9205cb2cef 745831eec18f58eefe1faa7b25031a53ce563793 John Diegor <john.diegor@gmail.com> 1511447797 +0800	commit: added a validation in marking the milestone completed
+745831eec18f58eefe1faa7b25031a53ce563793 80ff4eac492f9046c610cbd6cc53536a3a6fbce3 John Diegor <john.diegor@gmail.com> 1511456609 +0800	commit: initial commit of dashboard page
+80ff4eac492f9046c610cbd6cc53536a3a6fbce3 86db5b2473ea98edb9c6df7917e598025f6b80d8 John Diegor <john.diegor@gmail.com> 1511458654 +0800	commit: fixed project searching
+86db5b2473ea98edb9c6df7917e598025f6b80d8 6ed31a9385ca10e1ce34435956a026cf0022b557 John Diegor <john.diegor@gmail.com> 1511467240 +0800	commit: added csv uploading for adding projects
+6ed31a9385ca10e1ce34435956a026cf0022b557 a21517ac5bc418f05c63eb47d6cb1054db3911bf John Diegor <john.diegor@gmail.com> 1511467864 +0800	commit: removed filtering of member is_active
+a21517ac5bc418f05c63eb47d6cb1054db3911bf 535668f771f3be5c2b6f6732d946ebfbb383d0ac John Diegor <john.diegor@gmail.com> 1511468188 +0800	commit: fixed bug in updating projects without members
+535668f771f3be5c2b6f6732d946ebfbb383d0ac 39f7fd21112e70070a0ae056052693da036d2d40 John Diegor <john.diegor@gmail.com> 1511468601 +0800	commit: temporarily removed password in validation
+39f7fd21112e70070a0ae056052693da036d2d40 6ec2ebc86058ecc16b719711cd087f0b5bd7f6aa John Diegor <john.diegor@gmail.com> 1511517637 +0800	commit: added initial pages for user roles and project types
+6ec2ebc86058ecc16b719711cd087f0b5bd7f6aa 1e71aeb99da35df34b47855e5abb6d5829797ae8 John Diegor <john.diegor@gmail.com> 1511523484 +0800	commit: added updating user roles
+1e71aeb99da35df34b47855e5abb6d5829797ae8 45093f23328be6e98fb09d7a34956b38c960c257 John Diegor <john.diegor@gmail.com> 1511524827 +0800	commit: added soft deleting of user roles
+45093f23328be6e98fb09d7a34956b38c960c257 b0f23ae2a14d417d93a05b5c8613a138b5eb47dc John Diegor <john.diegor@gmail.com> 1511526783 +0800	commit: added adding of project types
+b0f23ae2a14d417d93a05b5c8613a138b5eb47dc 4082be3518965b3a467c318ae3e82d212492dfb1 John Diegor <john.diegor@gmail.com> 1511528361 +0800	commit: added editing and deleting of project types
+4082be3518965b3a467c318ae3e82d212492dfb1 87d06bbc157f6e9dab5e148d914106a6ab17d788 John Diegor <john.diegor@gmail.com> 1511541072 +0800	commit: added updating of user profile
+87d06bbc157f6e9dab5e148d914106a6ab17d788 8bc5338bc5657bedfb3608c5f30f608c28a9f0a5 John Diegor <john.diegor@gmail.com> 1511541223 +0800	commit: readded javascript
+8bc5338bc5657bedfb3608c5f30f608c28a9f0a5 4eb358fcefb2e681e41ab1bb1d21bf6644c7e5a3 John Diegor <john.diegor@gmail.com> 1511543921 +0800	commit: modified near due mark
+4eb358fcefb2e681e41ab1bb1d21bf6644c7e5a3 906183069abd841a629d1967876a1e34c67a134b John Diegor <john.diegor@gmail.com> 1511558386 +0800	commit: removed hashing of password in controller
+906183069abd841a629d1967876a1e34c67a134b 26fd01bebfcabe0c3f7f04b49eb296ff20dc2dd6 John Diegor <john.diegor@gmail.com> 1511560052 +0800	commit: fixed bug in displaying duplicate project in dashboard and project list
+26fd01bebfcabe0c3f7f04b49eb296ff20dc2dd6 6b6b519c2407e0e491e6692d79dc30a4a7759594 John Diegor <john.diegor@gmail.com> 1511560181 +0800	commit: removed distinct
+6b6b519c2407e0e491e6692d79dc30a4a7759594 bc47c94825e36825062ba0bc5476834647318de6 John Diegor <john.diegor@gmail.com> 1511561236 +0800	commit: modified header color
+bc47c94825e36825062ba0bc5476834647318de6 7dee9eccdab16190817db750029d87898a8faaf9 John Diegor <john.diegor@gmail.com> 1511561587 +0800	commit: removed distinct
+7dee9eccdab16190817db750029d87898a8faaf9 ab9e1185c5e49edc68445b482f456c96f3558be6 John Diegor <john.diegor@gmail.com> 1511588870 +0800	commit: fixed sql in returning duplicate value
+ab9e1185c5e49edc68445b482f456c96f3558be6 95b002fe5d4b8bf852d8d73649a3704f0a50f837 John Diegor <john.diegor@gmail.com> 1511589400 +0800	commit: move layout partials outside from adminlte folder
+95b002fe5d4b8bf852d8d73649a3704f0a50f837 f7058a0bf9a2d74393a09675d69823385ca06a2e John Diegor <john.diegor@gmail.com> 1511589994 +0800	commit: move the displaying of milestone in a partial
+f7058a0bf9a2d74393a09675d69823385ca06a2e 3c533fa48859631cf766c314ad05f73aa873381a John Diegor <john.diegor@gmail.com> 1511590139 +0800	commit: test: remove order by created_at
+3c533fa48859631cf766c314ad05f73aa873381a 8d1222234fe519ce8277bb5160e1a0cbb8cacd67 John Diegor <john.diegor@gmail.com> 1511591023 +0800	commit: count milestones in weeks before and after due
+8d1222234fe519ce8277bb5160e1a0cbb8cacd67 e04895c46465db015c523e5a325c654cfd47870c John Diegor <john.diegor@gmail.com> 1511591419 +0800	commit: left join project members instead of straight join to display the project in dashboard
+e04895c46465db015c523e5a325c654cfd47870c c24435d82d94583e6a9ba14cdb68ded0f4b504c5 John Diegor <john.diegor@gmail.com> 1511605413 +0800	commit: added tooltip in milestones
+c24435d82d94583e6a9ba14cdb68ded0f4b504c5 5162cf77444af803473b0a94bf15dd58ca99de1d John Diegor <john.diegor@gmail.com> 1511662785 +0800	commit: updated glyphicon for project types and user types
+5162cf77444af803473b0a94bf15dd58ca99de1d ef3c2e2df45845e05805dba7a3c02b23cecfa159 John Diegor <john.diegor@gmail.com> 1511662810 +0800	commit: move auth layouts in main resource folder
+ef3c2e2df45845e05805dba7a3c02b23cecfa159 1844808ae1f52ddbe16982c42010ff67386fabf3 John Diegor <john.diegor@gmail.com> 1511663788 +0800	commit: fixed tooltip background color and content-wrapper height
+1844808ae1f52ddbe16982c42010ff67386fabf3 4b5f5f30925af7d1219ebc88f245fb2b5eb8ce50 John Diegor <john.diegor@gmail.com> 1511689480 +0800	commit: fixed weeks computation and added date of completion per milestone
+4b5f5f30925af7d1219ebc88f245fb2b5eb8ce50 7e2819f3f77ee51b122af33c340b06c4f8a9b774 John Diegor <john.diegor@gmail.com> 1511691341 +0800	commit: modified milestone background wrapper and date formatting
+7e2819f3f77ee51b122af33c340b06c4f8a9b774 7e2819f3f77ee51b122af33c340b06c4f8a9b774 John Diegor <john.diegor@gmail.com> 1511691635 +0800	checkout: moving from master to enhancement-phase-1
+7e2819f3f77ee51b122af33c340b06c4f8a9b774 2f9ae2919088d788dc0621491aea3a9a546b917b John Diegor <john.diegor@gmail.com> 1511803749 +0800	commit: added UI in sending a request in resetting a password
+2f9ae2919088d788dc0621491aea3a9a546b917b ddac0eddd844214052bc100a4401652b6dcf59b4 John Diegor <john.diegor@gmail.com> 1511808188 +0800	commit: added request handler in resetting passwords
+ddac0eddd844214052bc100a4401652b6dcf59b4 692f6e06124067a4509451d0de217f202ab85990 John Diegor <john.diegor@gmail.com> 1511808440 +0800	commit: added comments
+692f6e06124067a4509451d0de217f202ab85990 7e2819f3f77ee51b122af33c340b06c4f8a9b774 John Diegor <john.diegor@gmail.com> 1511844644 +0800	checkout: moving from enhancement-phase-1 to master
+7e2819f3f77ee51b122af33c340b06c4f8a9b774 692f6e06124067a4509451d0de217f202ab85990 John Diegor <john.diegor@gmail.com> 1511844910 +0800	checkout: moving from master to enhancement-phase-1
+692f6e06124067a4509451d0de217f202ab85990 e90716dff6040718088a7ff8ca08a6cda7c8c4b0 John Diegor <john.diegor@gmail.com> 1512088592 +0800	commit: modified project details UI
+e90716dff6040718088a7ff8ca08a6cda7c8c4b0 652817be73b8d7880ce2c633fe33b4f4daef46ee John Diegor <john.diegor@gmail.com> 1512111059 +0800	commit: modified updating of milestones
+652817be73b8d7880ce2c633fe33b4f4daef46ee 271bdd0459bb30dfe3550300de951a58bb0ad1cd John Diegor <john.diegor@gmail.com> 1512113104 +0800	commit: additional table and field in milestone comments
+271bdd0459bb30dfe3550300de951a58bb0ad1cd bf1c3486e490b613752bf1a3228a711b7b224171 John Diegor <john.diegor@gmail.com> 1512118463 +0800	commit: initial updates for tracking changes in milestones
+bf1c3486e490b613752bf1a3228a711b7b224171 03e6de624dfa0c9d9e5cb197c16385036ccf588d John Diegor <john.diegor@gmail.com> 1512146655 +0800	commit: added saving of milestone logs
+03e6de624dfa0c9d9e5cb197c16385036ccf588d a51f5eed2e31e8a00bf552aedfc3e3ecb0e6580c John Diegor <john.diegor@gmail.com> 1512177833 +0800	commit: modified adding of logs and comments
+a51f5eed2e31e8a00bf552aedfc3e3ecb0e6580c df68e0cf7d1f8974b2bc9f6d909867403d2d7f4f John Diegor <john.diegor@gmail.com> 1512236791 +0800	commit: initial commit on the updated comments section
+df68e0cf7d1f8974b2bc9f6d909867403d2d7f4f e98a2e0f58c322d8a3bd89dd23c9aa3d632929ae John Diegor <john.diegor@gmail.com> 1512258943 +0800	commit: fixed bug in adding comments and added refresh of dashboard
+e98a2e0f58c322d8a3bd89dd23c9aa3d632929ae 156b599db8a9c38057fcb1cf0a77c2a9199ec9f9 John Diegor <john.diegor@gmail.com> 1512261416 +0800	commit: fixed bug in getting the old valud of project details
+156b599db8a9c38057fcb1cf0a77c2a9199ec9f9 661e0f9f6c8a5f42b76b638bbb361d116ad6acfb John Diegor <john.diegor@gmail.com> 1512280631 +0800	commit: added UI in displaying a comment for the changes
+661e0f9f6c8a5f42b76b638bbb361d116ad6acfb b80533acedc46e80f21ac018d60e33eb4ec83f84 John Diegor <john.diegor@gmail.com> 1512290824 +0800	commit: migrations for access roles
+b80533acedc46e80f21ac018d60e33eb4ec83f84 f28823f2c20511c00f70d6505b33106b3f619e67 John Diegor <john.diegor@gmail.com> 1512393808 +0800	commit: not needed
+f28823f2c20511c00f70d6505b33106b3f619e67 9c8d4a3fcb6f88c975ea96f42e145ba9b6a3ec53 John Diegor <john.diegor@gmail.com> 1512393872 +0800	commit: not needed
+9c8d4a3fcb6f88c975ea96f42e145ba9b6a3ec53 61df77c72d5b52a1dd9f08c42c94bfa3039e98d0 John Diegor <john.diegor@gmail.com> 1512402710 +0800	commit: added user roles access control UI
+61df77c72d5b52a1dd9f08c42c94bfa3039e98d0 be7668185e028123897a20d8d729174c82ea9a18 John Diegor <john.diegor@gmail.com> 1512414316 +0800	commit: implementing user roles ranking
+be7668185e028123897a20d8d729174c82ea9a18 2ae4f55a4179fde6fc176667195a03ca439bb8da John Diegor <john.diegor@gmail.com> 1512416177 +0800	commit: added email notification when project details has been changed
+2ae4f55a4179fde6fc176667195a03ca439bb8da 17ab5b8757cb1f8cc1a47384763672093edf9f0c John Diegor <john.diegor@gmail.com> 1512480277 +0800	commit: fixed duplicates in changes
+17ab5b8757cb1f8cc1a47384763672093edf9f0c 7e2819f3f77ee51b122af33c340b06c4f8a9b774 John Diegor <john.diegor@gmail.com> 1512480320 +0800	checkout: moving from enhancement-phase-1 to master
+7e2819f3f77ee51b122af33c340b06c4f8a9b774 17ab5b8757cb1f8cc1a47384763672093edf9f0c John Diegor <john.diegor@gmail.com> 1512480334 +0800	merge enhancement-phase-1: Fast-forward
+17ab5b8757cb1f8cc1a47384763672093edf9f0c 3207ba884c96e247d3c6a2f0a5e93a2b5b15f33c John Diegor <john.diegor@gmail.com> 1512489707 +0800	commit: fixed bug when adding a member to a project
+3207ba884c96e247d3c6a2f0a5e93a2b5b15f33c a27b9b253a9c13e8e630a09cb9eb2dfdf8f31f8a John Diegor <john.diegor@gmail.com> 1512497551 +0800	commit: added milestones in csv uploads
+a27b9b253a9c13e8e630a09cb9eb2dfdf8f31f8a 5817d43b6dee72c4fb7eb4776cbeeff22ddc5dd2 John Diegor <john.diegor@gmail.com> 1512499490 +0800	commit: fixed bug in converting milestone dates
+5817d43b6dee72c4fb7eb4776cbeeff22ddc5dd2 5817d43b6dee72c4fb7eb4776cbeeff22ddc5dd2 John Diegor <john.diegor@gmail.com> 1512601993 +0800	checkout: moving from master to enhancement-phase-2
+5817d43b6dee72c4fb7eb4776cbeeff22ddc5dd2 b5f5152a6e0e37a28e4c6f023e4d4895a7c5e5dc John Diegor <john.diegor@gmail.com> 1512636263 +0800	commit: added changes tab and trigger changes password on initial login of first time users
+b5f5152a6e0e37a28e4c6f023e4d4895a7c5e5dc 84951a7bc93b78802a62d9dfde4bc9bbb6490607 John Diegor <john.diegor@gmail.com> 1512639618 +0800	commit: added readonly layer when viewing project details
+84951a7bc93b78802a62d9dfde4bc9bbb6490607 d21b5dcc63e316c9821c9b822103a15fe9bae562 John Diegor <john.diegor@gmail.com> 1512654333 +0800	commit: added disabled form for milestones
+d21b5dcc63e316c9821c9b822103a15fe9bae562 ebfe1e8b3ed48b8f2dbafc218257ff5f76ad017c John Diegor <john.diegor@gmail.com> 1512658085 +0800	commit: added tagging of projects as deleted
+ebfe1e8b3ed48b8f2dbafc218257ff5f76ad017c ba20d628a04e19907cf7eeb6e5dfe44905f1e287 John Diegor <john.diegor@gmail.com> 1512659450 +0800	commit: modified milestones marker in dashboard
+ba20d628a04e19907cf7eeb6e5dfe44905f1e287 a6b1c2effdc04c3231918a9a54cf28a145828d12 John Diegor <john.diegor@gmail.com> 1512659661 +0800	commit: modified size of loader gif
+a6b1c2effdc04c3231918a9a54cf28a145828d12 033abcf132b4b52c7cb5ce788e39fbb54f49ab41 John Diegor <john.diegor@gmail.com> 1512661034 +0800	commit: fixed milestones wrapper css in dashboard
+033abcf132b4b52c7cb5ce788e39fbb54f49ab41 5817d43b6dee72c4fb7eb4776cbeeff22ddc5dd2 John Diegor <john.diegor@gmail.com> 1512661439 +0800	checkout: moving from enhancement-phase-2 to master
+5817d43b6dee72c4fb7eb4776cbeeff22ddc5dd2 033abcf132b4b52c7cb5ce788e39fbb54f49ab41 John Diegor <john.diegor@gmail.com> 1512661448 +0800	merge enhancement-phase-2: Fast-forward
+033abcf132b4b52c7cb5ce788e39fbb54f49ab41 7ed8785d8e655548f81cad0eaf4d38d869dd9963 John Diegor <john.diegor@gmail.com> 1512669023 +0800	commit: fixed bug in duplicate entry in dashboard summary
+7ed8785d8e655548f81cad0eaf4d38d869dd9963 430220b0e9e3199efebafc8e8ce7591ca99c3eb2 John Diegor <john.diegor@gmail.com> 1512671138 +0800	commit: added comment on each changes
+430220b0e9e3199efebafc8e8ce7591ca99c3eb2 906ba7f631c60d897abe7f739e3051d18ad8839c John Diegor <john.diegor@gmail.com> 1512673530 +0800	commit: fixed bug in displaying comments in dashboard
+906ba7f631c60d897abe7f739e3051d18ad8839c 92dab3bf0ed8b639edf88cdc8700a110422f7af0 John Diegor <john.diegor@gmail.com> 1512676475 +0800	commit: fixed bug in mapping milestones when uploaded
+92dab3bf0ed8b639edf88cdc8700a110422f7af0 1c2b145dbcd1fe90dbad3f389abc5b599a5d2177 John Diegor <john.diegor@gmail.com> 1512677761 +0800	commit: added padding
+1c2b145dbcd1fe90dbad3f389abc5b599a5d2177 d669e8c6e7da5276d4d6fea2becc82a410bbe8e8 John Diegor <john.diegor@gmail.com> 1512678513 +0800	commit: added release text
+d669e8c6e7da5276d4d6fea2becc82a410bbe8e8 bb794dbeb46802dc75ed918675dd243e3ae008ff John Diegor <john.diegor@gmail.com> 1512680690 +0800	commit: initial changes in adding milestone mark completion in comments
+bb794dbeb46802dc75ed918675dd243e3ae008ff 21a2aa2e2d55e74a4219950249e12caf1822ae25 John Diegor <john.diegor@gmail.com> 1512687764 +0800	commit: fixed remaining milestones to log when its marked as completed
+21a2aa2e2d55e74a4219950249e12caf1822ae25 9ff9ca674ab5cf3c34daa8afc6c72052bd3496f0 John Diegor <john.diegor@gmail.com> 1512722797 +0800	commit: fixed 01-01-1970 dates in milestones
+9ff9ca674ab5cf3c34daa8afc6c72052bd3496f0 9ff9ca674ab5cf3c34daa8afc6c72052bd3496f0 John Diegor <john.diegor@gmail.com> 1512782268 +0800	checkout: moving from master to enhancement-phase-3
+9ff9ca674ab5cf3c34daa8afc6c72052bd3496f0 09c74c5c2319a9ac4a7897a29b58f1783e8f1598 John Diegor <john.diegor@gmail.com> 1512785365 +0800	commit: updated modal triggers
+09c74c5c2319a9ac4a7897a29b58f1783e8f1598 9ff9ca674ab5cf3c34daa8afc6c72052bd3496f0 John Diegor <john.diegor@gmail.com> 1512785389 +0800	checkout: moving from enhancement-phase-3 to master
+9ff9ca674ab5cf3c34daa8afc6c72052bd3496f0 09c74c5c2319a9ac4a7897a29b58f1783e8f1598 John Diegor <john.diegor@gmail.com> 1512785397 +0800	merge enhancement-phase-3: Fast-forward
+09c74c5c2319a9ac4a7897a29b58f1783e8f1598 c060ad93ecb6d1b66534f3e4abd8b5f5225505e8 John Diegor <john.diegor@gmail.com> 1512786033 +0800	commit: updated modal trigger
+c060ad93ecb6d1b66534f3e4abd8b5f5225505e8 b3fafdb471aa7e722ad8ee7e44703788ed595453 John Diegor <john.diegor@gmail.com> 1512791155 +0800	commit: fixed comments orderby
+b3fafdb471aa7e722ad8ee7e44703788ed595453 84ca353804717538d3d2e6c851729d21712d0a6d John Diegor <john.diegor@gmail.com> 1512791241 +0800	commit: modified release note
+84ca353804717538d3d2e6c851729d21712d0a6d bfdca4c3c1a0b55d3c78081e9e5acab188e85fae John Diegor <john.diegor@gmail.com> 1512791727 +0800	commit: fixed array declaration in changes
+bfdca4c3c1a0b55d3c78081e9e5acab188e85fae bfdca4c3c1a0b55d3c78081e9e5acab188e85fae John Diegor <john.diegor@gmail.com> 1513093089 +0800	checkout: moving from master to enhancement-phase-4
+bfdca4c3c1a0b55d3c78081e9e5acab188e85fae 43ebdfa33538ce12e9e36cdc8f07500105f3fd3e John Diegor <john.diegor@gmail.com> 1513182750 +0800	commit: various fixes and adjustments in project module
+43ebdfa33538ce12e9e36cdc8f07500105f3fd3e dfe45b0770a6a0c07bda07578691e3f2c30943be John Diegor <john.diegor@gmail.com> 1513259142 +0800	commit: modified milestones and comments layout and formatting
+dfe45b0770a6a0c07bda07578691e3f2c30943be a4322899bdfb6feaf9b042d892400b8a207cc575 John Diegor <john.diegor@gmail.com> 1513259847 +0800	commit: added keypress to run search
+a4322899bdfb6feaf9b042d892400b8a207cc575 17eb412ef3c79ca273686adfa03d69f7bf89fc20 John Diegor <john.diegor@gmail.com> 1513261306 +0800	commit: added character count for project name
+17eb412ef3c79ca273686adfa03d69f7bf89fc20 6fa92b16f707a48af2dcf13631085cdbea0b0ad4 John Diegor <john.diegor@gmail.com> 1513264479 +0800	commit: added project code
+6fa92b16f707a48af2dcf13631085cdbea0b0ad4 d1f3b1bc2b4b6c7e67fcc87d9986cd7d9c6dbebc John Diegor <john.diegor@gmail.com> 1513265910 +0800	commit: added project code in csv uploading
+d1f3b1bc2b4b6c7e67fcc87d9986cd7d9c6dbebc 75a9fee5ab3ec1c6932314abb74e78f7943fe57f John Diegor <john.diegor@gmail.com> 1513268236 +0800	commit: fixed bug in milestones when uploading csv
+75a9fee5ab3ec1c6932314abb74e78f7943fe57f 016c3436f630cb29339870be5fd78dbbca81cd8b John Diegor <john.diegor@gmail.com> 1513353201 +0800	commit: modified process flow when milestones has been updated
+016c3436f630cb29339870be5fd78dbbca81cd8b b8382e34263d691035c29b3e617b86cd95b3cf6c John Diegor <john.diegor@gmail.com> 1513354160 +0800	commit: updated project logs and comments
+b8382e34263d691035c29b3e617b86cd95b3cf6c 0c71061f3aad3686ac0d45afcec6b9cede824dde John Diegor <john.diegor@gmail.com> 1513355999 +0800	commit: updated project details changes and comments
+0c71061f3aad3686ac0d45afcec6b9cede824dde 350c3b6050ff10d7ee6cc3933b0ed10a25839794 John Diegor <john.diegor@gmail.com> 1513357159 +0800	commit: created a separate method is replying to a comment
+350c3b6050ff10d7ee6cc3933b0ed10a25839794 bfdca4c3c1a0b55d3c78081e9e5acab188e85fae John Diegor <john.diegor@gmail.com> 1513357179 +0800	checkout: moving from enhancement-phase-4 to master
+bfdca4c3c1a0b55d3c78081e9e5acab188e85fae 350c3b6050ff10d7ee6cc3933b0ed10a25839794 John Diegor <john.diegor@gmail.com> 1513357211 +0800	merge enhancement-phase-4: Fast-forward
+350c3b6050ff10d7ee6cc3933b0ed10a25839794 cd414a79a6d1c35482b74d67797a86a0045bfb63 John Diegor <john.diegor@gmail.com> 1513357302 +0800	commit: updated release notes
+cd414a79a6d1c35482b74d67797a86a0045bfb63 34602d6624d48ca322d9531dfc73b5c1717c89f5 John Diegor <john.diegor@gmail.com> 1513364985 +0800	commit: labels and alignment changes
+34602d6624d48ca322d9531dfc73b5c1717c89f5 a63ed58683417077d05cf8aa82825e4dc454522c John Diegor <john.diegor@gmail.com> 1513365529 +0800	commit: updated remaining character count when in edit mode
+a63ed58683417077d05cf8aa82825e4dc454522c 44d1be0cd95730a13a10a222015f360b2fc0a9eb John Diegor <john.diegor@gmail.com> 1513368537 +0800	commit: fixed bug when uploading an invalid date in milestones
+44d1be0cd95730a13a10a222015f360b2fc0a9eb 4ad04f594483141ebcd62732f299e7eb91ad1551 John Diegor <john.diegor@gmail.com> 1513368942 +0800	commit: updates release note
+4ad04f594483141ebcd62732f299e7eb91ad1551 c41c401ac529fb5da3aeae58d695d184e3e2b737 John Diegor <john.diegor@gmail.com> 1513371148 +0800	commit: fixes in populating changes and csv template
+c41c401ac529fb5da3aeae58d695d184e3e2b737 219b5d761d34a7238c94285a590dc689fe2f78d8 John Diegor <john.diegor@gmail.com> 1513371177 +0800	commit: update release note
+219b5d761d34a7238c94285a590dc689fe2f78d8 e5656fa48d7ca69704d6b6046f00b7e000c7f6ab John Diegor <john.diegor@gmail.com> 1513415625 +0800	commit: fixes on dashboard, comments and editing project details and milestones
+e5656fa48d7ca69704d6b6046f00b7e000c7f6ab 7209e8f987579ab2365c0d3dc7b81ed7d7c10d6b John Diegor <john.diegor@gmail.com> 1513467809 +0800	commit: added refresh settings modal and migration script, updated date format of milestones
+7209e8f987579ab2365c0d3dc7b81ed7d7c10d6b 4871fefd2fc30625f4240ee77efb410c41b29222 John Diegor <john.diegor@gmail.com> 1513471446 +0800	commit: added refresh timing in dashboard
+4871fefd2fc30625f4240ee77efb410c41b29222 f0fab2780dd56313516f8590c8fb95fd7e350fe2 John Diegor <john.diegor@gmail.com> 1513473846 +0800	commit: fixed sidebar highlights
+f0fab2780dd56313516f8590c8fb95fd7e350fe2 63b009497d6cce54a8d25834fa79307ac67eb8aa John Diegor <john.diegor@gmail.com> 1513475803 +0800	commit: update translation
+63b009497d6cce54a8d25834fa79307ac67eb8aa 580d9b762691a45ae0eef099ab81c7f8f9cc0a03 John Diegor <john.diegor@gmail.com> 1513475850 +0800	commit: modified release note
+580d9b762691a45ae0eef099ab81c7f8f9cc0a03 0632cdfd40e17d1acb6627e385748a76c8b7fc02 John Diegor <john.diegor@gmail.com> 1513478770 +0800	commit: added pagination in projects index page
+0632cdfd40e17d1acb6627e385748a76c8b7fc02 bc8d53bfbd3943d3120cf8d0a5e9f204783a8dfb John Diegor <john.diegor@gmail.com> 1513481764 +0800	commit: added pagination in dashboard
+bc8d53bfbd3943d3120cf8d0a5e9f204783a8dfb 630b28c8c1f1e132639b6e051d47adc81cee0462 John Diegor <john.diegor@gmail.com> 1513481813 +0800	commit: update release note
+630b28c8c1f1e132639b6e051d47adc81cee0462 b02aedfc7114163464d55720d45c5dc7ad1e4d4e John Diegor <john.diegor@gmail.com> 1513587436 +0800	commit: added convertion of dates with 2 digit year in uploading a project via csv file
+b02aedfc7114163464d55720d45c5dc7ad1e4d4e 48bb7b1a96617241f0787a7ecb3fb67b21ac9446 John Diegor <john.diegor@gmail.com> 1513587471 +0800	commit: updated release note
+48bb7b1a96617241f0787a7ecb3fb67b21ac9446 54c788c81e7238533c6a77dce86c458fb8f7c9c2 John Diegor <john.diegor@gmail.com> 1513608268 +0800	commit: added allowed date format YY-mm-dd, YYYY-mm-dd and YYYY/mm/dd
+54c788c81e7238533c6a77dce86c458fb8f7c9c2 b2e100eac458358d053269903959d4a1202e264a John Diegor <john.diegor@gmail.com> 1513608280 +0800	commit: updated project csv template
+b2e100eac458358d053269903959d4a1202e264a 3b5d0ca991d72dc7e7c8519eeead915e8708e52a John Diegor <john.diegor@gmail.com> 1513608390 +0800	commit: updated release note
+3b5d0ca991d72dc7e7c8519eeead915e8708e52a 858dd4cbf22a534ffdcffc000e6ac4b8189ed48f John Diegor <john.diegor@gmail.com> 1514650607 +0800	commit: remove the first column of tables in dashboard and projects, and modified error handling in uploads
+858dd4cbf22a534ffdcffc000e6ac4b8189ed48f 8c94989028530fa299ed7e738812167c4967e925 John Diegor <john.diegor@gmail.com> 1514652509 +0800	commit: modified conversion of dates
+8c94989028530fa299ed7e738812167c4967e925 e5afb97f13edf2d53b94b5d334a9220da72ed97f John Diegor <john.diegor@gmail.com> 1514653135 +0800	commit: fixed checking of first login users
+e5afb97f13edf2d53b94b5d334a9220da72ed97f 82d7a35a16b59cfd6af0ddb30c7954ee3169926c John Diegor <john.diegor@gmail.com> 1514656686 +0800	commit: added toggle of project visibility in dashboard
+82d7a35a16b59cfd6af0ddb30c7954ee3169926c f005d71152e3ce240b56082e8eb98735e92339bf John Diegor <john.diegor@gmail.com> 1514657066 +0800	commit: modified release note
+f005d71152e3ce240b56082e8eb98735e92339bf 22fc0cebb8f136de3c405aea9c48cb84892d884b John Diegor <john.diegor@gmail.com> 1514920029 +0800	commit: added check if email address is valid
+22fc0cebb8f136de3c405aea9c48cb84892d884b 9e478b26651ff9f31dd6eaa11a0b13f6ce764212 John Diegor <john.diegor@gmail.com> 1514920074 +0800	commit: modified release note
+9e478b26651ff9f31dd6eaa11a0b13f6ce764212 a6285e53e977a02ae791ba9291c0a566ae743171 John Diegor <john.diegor@gmail.com> 1514923234 +0800	commit: fixed bug in tagging a project not to be visible in dashboard
+a6285e53e977a02ae791ba9291c0a566ae743171 94dac0cee66b5a15c8d56d4f31f14c80554ca4e4 John Diegor <john.diegor@gmail.com> 1515206032 +0800	commit: added error trapping when project type is invalid
+94dac0cee66b5a15c8d56d4f31f14c80554ca4e4 ffdbdb70884d0e9351b9a4a0f56786bfd3734794 John Diegor <john.diegor@gmail.com> 1515206072 +0800	commit: modified release note
+ffdbdb70884d0e9351b9a4a0f56786bfd3734794 025a0d2aa6be843bff8459025b28ad4e4ba8dada John Diegor <john.diegor@gmail.com> 1515870700 +0800	commit: changed project codes length from 5 to 9 characters
+025a0d2aa6be843bff8459025b28ad4e4ba8dada af226323ae163ccd03ba769e38bc6e6f1788f497 John Diegor <john.diegor@gmail.com> 1515871382 +0800	commit: trim trailing spaces
+af226323ae163ccd03ba769e38bc6e6f1788f497 b7e29fc63ee004f6f02224b889b21dc39373a0dd John Diegor <john.diegor@gmail.com> 1515873245 +0800	commit: added project manager in csv upload
+b7e29fc63ee004f6f02224b889b21dc39373a0dd 2116483acf84ca1223c82a54398a65ed3f778e4f John Diegor <john.diegor@gmail.com> 1515873584 +0800	commit: adjusted column size for project codes, project types and project managers
+2116483acf84ca1223c82a54398a65ed3f778e4f 4a51b93408261abcc89d86684fa1ccf1976a5c3e John Diegor <john.diegor@gmail.com> 1515875282 +0800	commit: fixed date format
+4a51b93408261abcc89d86684fa1ccf1976a5c3e 5540411f3499c528e75fe532fabd8756eb5271a3 John Diegor <john.diegor@gmail.com> 1515875323 +0800	commit: updated build
+5540411f3499c528e75fe532fabd8756eb5271a3 fd2fbfa55e6f455b649a217cd9ae6dd51ed8150f John Diegor <john.diegor@gmail.com> 1517683237 +0800	commit: bug fixes and enhancements
+fd2fbfa55e6f455b649a217cd9ae6dd51ed8150f 4576ca05edb1dd42e1a260943ca5de7aeb6dd975 John Diegor <john.diegor@gmail.com> 1517683319 +0800	commit: modified release number
+4576ca05edb1dd42e1a260943ca5de7aeb6dd975 8eaa73adf80af1dcabeaedb98c3e3f0035ac9cf0 John Diegor <john.diegor@gmail.com> 1519610334 +0800	commit: added project name in notify changes email
+8eaa73adf80af1dcabeaedb98c3e3f0035ac9cf0 562d8eaa84e9ba0f7f59d669c464793a7eac438b John Diegor <john.diegor@gmail.com> 1519611278 +0800	commit: added project manager column
